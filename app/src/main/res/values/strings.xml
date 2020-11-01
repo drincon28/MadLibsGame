@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mad Libs Game</string>
+
+    <string name="intro_text">
+        Welcome to Mad Libs! I will ask you to fill in words to complete a story.
+        You won\'t be able to see the whole story until you are done filling in all the missing
+        words. That\'s part of the fun. Click below to get started.
+    </string>
+
+    <string name="intro_btn_text">GET STARTED!</string>
+    <string name="intro_img_desc">intro image logo</string>
+
+    <string name="read_words_text">Fill in the words to complete the story!</string>
+    <string name="read_words_btn_text">OK</string>
+    <string name="read_words_input_text">noun</string>
+    <string name="read_words_left_text">7 word(s) left</string>
+    <string name="read_words_instructions_text">please type a/an noun</string>
+    <string name="read_words_img_desc">intro image logo</string>
+
+    <string name="story_text">Your Mad Lib Story!</string>
+    <string name="story_btn_text">MAKE ANOTHER STORY</string>
+    <string name="story_content_text">Your story reads as follows!</string>
+</resources>
